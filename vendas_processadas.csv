@@ -1,0 +1,6 @@
+Data,Produto,Quantidade,Preco_Unitario,Regiao,Total_Venda
+2023-01-01,Notebook,5,3500,Sul,17500
+2023-01-02,Smartphone,10,1500,Nordeste,15000
+2023-01-03,Tablet,8,2000,Sudeste,16000
+2023-01-04,Notebook,3,3500,Norte,10500
+2023-01-05,Smartphone,15,1500,Sudeste,22500
