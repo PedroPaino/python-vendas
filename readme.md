@@ -66,7 +66,7 @@ O projeto "Python Vendas" é uma ferramenta de análise que permite:
    ```
 
 ## 📊 Exemplos de Uso
-    !vendas_por_produto.png
+<img src="vendas_por_produto.png" alt="Exemplo de Uso">
 
 ## Análise Básica de Vendas
 
